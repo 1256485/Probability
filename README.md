@@ -1,0 +1,2 @@
+# Probability
+阅读普林斯顿概率论读本，里面的代码全是mathematica的，我用python尝试去实现

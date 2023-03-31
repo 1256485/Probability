@@ -1,2 +1,3 @@
 # Probability
-阅读普林斯顿概率论读本，里面的代码全是mathematica的，我用python尝试去实现
+最近在阅读普林斯顿概率论读本，里面的代码全是mathematica的，我用借助cursor和chatGPT的帮助用python尝试去实现。
+但进度会很慢，预计更新时间超过一年。
